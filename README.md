@@ -32,4 +32,4 @@ print("\nThe final position of the object is", FINAL_POSITION)  #Finally, we pri
 This block of code above introduced me not only to the simplicity of coding using Python, but of float integers as well. This brought up my enthusiasm of coding.
 
 ---
-Please go visit the other pages: **Running**, **Professional**, **Friends**, and **Goals** to get a glimpse of who I am.
+Please go visit the other pages: [**Running**](https://github.com/PRunner77/PRunner77.github.io/blob/master/Running.md), **Professional**, **Friends**, and **Goals** to get a glimpse of who I am.
