@@ -1,6 +1,5 @@
 
-|[**Running**](/Running) | [**Professional**](/Professional) | [**Friends**](/Friends) | [**Goals**](/Goals) | [**References**](/References) |
-| --------------------- | ------------------------------- | --------------------- | ---------------- | -------------------------- |
+| [**Running**](/Running) | [**Professional**](/Professional) | [**Friends**](/Friends) | [**Goals**](/Goals) | [**References**](/References) |
 
 # Welcome
 
@@ -37,4 +36,4 @@ This block of code above introduced me not only to the simplicity of coding usin
 
 ---
 |[**Running**](/Running) | [**Professional**](/Professional) | [**Friends**](/Friends) | [**Goals**](/Goals) | [**References**](/References) |
-| --------------------- | ------------------------------- | --------------------- | ---------------- | -------------------------- |
+
