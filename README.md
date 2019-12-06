@@ -17,6 +17,8 @@ My name is [Payton Marlin](https://spark.adobe.com/page/bx0sCvLqR5RHU/), a curre
 Although I do not have ~~**_any_**~~ ~~**_none_**~~ **_nada_** programming experience, I have always wanted to learn how to code and to solve problems. I am taking the dreaded *CS 1050* class next semester, which I have heard is very difficult. However, one quote still stays in my head...
 >##  "If you can't fly, then run, if you can't run then walk, if you can't walk then crawl, but whatever you do, you have to keep moving forward." *-Martin Luther King, Jr.*
 
+![Uni](/columns.jpg)
+
 I have struggled with many of my classes this semester, and this quote from [Martin Luther King, Jr.](https://www.nobelprize.org/prizes/peace/1964/king/biographical/) pushed and will push me throughout my college career. In this class, I am proud of where I have come since the beginning of the semester.
 
 ### The Turtle Python Project
