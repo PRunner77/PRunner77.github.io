@@ -1,6 +1,8 @@
 | [**Running**](/Running) | [**Professional**](/Professional) | [**Friends**](/Friends) | [**Goals**](/Goals) | [**References**](/References) |
 
 
+
+![Help](https://bit.ly/2s6zlsV)
 # References
 
 I would **_LOVE_** to take all the credit and say that I did this all by myself. In truth I did have a ton of help in creating the website.
@@ -10,6 +12,8 @@ I would **_LOVE_** to take all the credit and say that I did this all by myself.
 ## [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 * Even though Markdown is the most simplistic of the code out there in the world, I did have to use a cheatsheet to remind me of how stuff works.
+
+![Cheatsheet](3319813c4fd34c1e5d8663ea3a632329.jpg)
 
 ## [Tiny URL](https://tinyurl.com/) + [Bitly](https://bitly.com/)
 
