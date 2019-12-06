@@ -1,3 +1,6 @@
+| [**Home**](/README) | [**Running**](/Running) | [**Professional**](/Professional) | [**Friends**](/Friends) | [**Goals**](/Goals) | [**References**](/References) |
+
+
 # Professional Development
 
 Coming in as a first-year at a university seems ~~daunting~~ **horrifying**, especially when you have advisors that want you to secure an internship or job in your specific career path. 
@@ -171,3 +174,5 @@ A club that advocates for runners. We do both cross country and track races duri
 **Member Since:** Fall 2019
 
 **Favorite Memory:** Attending the Forest Park race, which my old high school team was at.
+
+| [**Home**](/README) | [**Running**](/Running) | [**Professional**](/Professional) | [**Friends**](/Friends) | [**Goals**](/Goals) | [**References**](/References) |
