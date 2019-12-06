@@ -9,6 +9,20 @@ I would **_LOVE_** to take all the credit and say that I did this all by myself.
 
 ---
 
+## [W3 Schools](https://www.w3schools.com/)
+
+* Has helped me not only with HTML, but also with learning a bit of Python and Javascript too.
+
+``` Python
+a = 200
+b = 33
+
+if b > a:
+  print("b is greater than a")
+else:
+  print("b is not greater than a")
+```
+
 ## [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 * Even though Markdown is the most simplistic of the code out there in the world, I did have to use a cheatsheet to remind me of how stuff works.
