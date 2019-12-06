@@ -1,4 +1,4 @@
-| [**Home**](/README) | [**Running**](/Running) | [**Professional**](/Professional) | [**Friends**](/Friends) | [**Goals**](/Goals) | [**References**](/References) |
+| [**Running**](/Running) | [**Professional**](/Professional) | [**Friends**](/Friends) | [**Goals**](/Goals) | [**References**](/References) |
 
 
 # References
@@ -25,4 +25,4 @@ I would **_LOVE_** to take all the credit and say that I did this all by myself.
 As my old frind Aesop would say
 >### "Gratitude is the sign of noble souls.” 
 
-| [**Home**](/README) | [**Running**](/Running) | [**Professional**](/Professional) | [**Friends**](/Friends) | [**Goals**](/Goals) | [**References**](/References) |
+| [**Running**](/Running) | [**Professional**](/Professional) | [**Friends**](/Friends) | [**Goals**](/Goals) | [**References**](/References) |
