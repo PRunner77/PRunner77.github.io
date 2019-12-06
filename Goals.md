@@ -1,6 +1,9 @@
 | [**Running**](/Running) | [**Professional**](/Professional) | [**Friends**](/Friends) | [**Goals**](/Goals) | [**References**](/References) |
 
 
+
+![goals](/Goals.png)
+
 # Goals
 
 As a first-year student at the University of Missouri, I have a long college career ahead. Given that it will go by extremely fast, I need to set both _long term_ and _short term_ goals as soon as possible. One of which is 'coded' below.
