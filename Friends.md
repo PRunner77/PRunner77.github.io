@@ -1,3 +1,6 @@
+| [**Home**](/README) | [**Running**](/Running) | [**Professional**](/Professional) | [**Friends**](/Friends) | [**Goals**](/Goals) | [**References**](/References) |
+
+
 # Friendships/Networking
 
 Although my college career is focused mainly on schooling, I also want to include a page of my personal development with the people around me. I believe that in college, another part to focus on is your *relationship* growth.
@@ -89,3 +92,5 @@ print('-He is very excited to start programming and learning more about computer
 ```
 
 To something as advanced as this webpage, I am growing my networking opportunites and will be ready in the comming months to show what I know.
+
+| [**Home**](/README) | [**Running**](/Running) | [**Professional**](/Professional) | [**Friends**](/Friends) | [**Goals**](/Goals) | [**References**](/References) |
