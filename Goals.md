@@ -1,4 +1,4 @@
-| [**Home**](/README) | [**Running**](/Running) | [**Professional**](/Professional) | [**Friends**](/Friends) | [**Goals**](/Goals) | [**References**](/References) |
+| [**Running**](/Running) | [**Professional**](/Professional) | [**Friends**](/Friends) | [**Goals**](/Goals) | [**References**](/References) |
 
 
 # Goals
@@ -63,5 +63,4 @@ Looking onto after college, I of course want a job. Though there are also so man
   * Helping the earth has always been my number one priority, I hope to create or help take part of something bigger than me.
 
 >## "One of the first conditions of happiness is that the link between man and nature shall not be broken." - Leo Tolstoy
-
-| [**Home**](/README) | [**Running**](/Running) | [**Professional**](/Professional) | [**Friends**](/Friends) | [**Goals**](/Goals) | [**References**](/References) |
+| [**Running**](/Running) | [**Professional**](/Professional) | [**Friends**](/Friends) | [**Goals**](/Goals) | [**References**](/References) |
