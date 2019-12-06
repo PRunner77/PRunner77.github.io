@@ -14,6 +14,7 @@ Taking part of college with no expereince with Information Technology or Coding,
 Meeting him made me feel extremely behind, yet *amazed* on how someone can be so
 >**_determined_** 
 
+![HS Boy's State](/IMG_7700.jpg)
 ---
 
 ## What I Have Done
@@ -151,6 +152,7 @@ Team assembled based in California to build the nation's first hyperloop that wo
 
 ## Activities
 
+![3D Magic](https://bit.ly/2DS5R4L)
 #### [3D Printing Club](https://missouri.campuslabs.com/engage/organization/3d-printing-club)
 
 Ability to learn about 3D printing and to participate in different groups such as _large scale 3D printing_, _Making Mizzou_, _beginner group_, or the _prosthetics group_.
