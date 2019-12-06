@@ -18,7 +18,7 @@ Take it from **Muhammad Ali**, if you will not listen to me maybe you will liste
 <img src="https://tinyurl.com/seaqbk9" style="width:40%; border:5px solid; margin-right: 20px" align="left">
 
 
-<img src="https://tinyurl.com/t2t2c57" style="width:40%; border:5px solid; margin-right: 20px" align="righ">
+<img src="/FB_IMG_1575080284552.jpg" style="width:40%; border:5px solid; margin-right: 20px" align="righ">
 
 
 Although my parents are divorced, I still keep in contact with both of them. I hear many stories of how kids have been separated from their parents, and I am very fortunate to have both of mine with me thoughout college.
