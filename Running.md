@@ -1,3 +1,6 @@
+| [**Home**](/README) | [**Running**](/Running) | [**Professional**](/Professional) | [**Friends**](/Friends) | [**Goals**](/Goals) | [**References**](/References) |
+
+
 # Running Throughout the Years
 
 >## "Runners to your mark"
@@ -77,3 +80,5 @@ Now, since I am a full time student committing to courses in Information Technol
 ```
 
 College races are extremely fun. With [Mizzou Club Running](https://mizzourunningclub.wixsite.com/home) I get to do some races that are comepetitive and races that are more 'fun'. ![Running](https://tinyurl.com/ulxx4al)
+
+| [**Home**](/README) | [**Running**](/Running) | [**Professional**](/Professional) | [**Friends**](/Friends) | [**Goals**](/Goals) | [**References**](/References) |
