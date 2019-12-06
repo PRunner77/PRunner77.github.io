@@ -1,4 +1,4 @@
-| [**Home**](/README) | [**Running**](/Running) | [**Professional**](/Professional) | [**Friends**](/Friends) | [**Goals**](/Goals) | [**References**](/References) |
+| [**Running**](/Running) | [**Professional**](/Professional) | [**Friends**](/Friends) | [**Goals**](/Goals) | [**References**](/References) |
 
 
 # Professional Development
@@ -175,4 +175,4 @@ A club that advocates for runners. We do both cross country and track races duri
 
 **Favorite Memory:** Attending the Forest Park race, which my old high school team was at.
 
-| [**Home**](/README) | [**Running**](/Running) | [**Professional**](/Professional) | [**Friends**](/Friends) | [**Goals**](/Goals) | [**References**](/References) |
+| [**Running**](/Running) | [**Professional**](/Professional) | [**Friends**](/Friends) | [**Goals**](/Goals) | [**References**](/References) |
