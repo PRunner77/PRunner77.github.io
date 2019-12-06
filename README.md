@@ -35,4 +35,4 @@ print("\nThe final position of the object is", FINAL_POSITION)  #Finally, we pri
 This block of code above introduced me not only to the simplicity of coding using Python, but of float integers as well. This brought up my enthusiasm of coding.
 
 ---
-| [**Home**](/README) | [**Running**](/Running) | [**Professional**](/Professional) | [**Friends**](/Friends) | [**Goals**](/Goals) | [**References**](/References) |
+ | [**Running**](/Running) | [**Professional**](/Professional) | [**Friends**](/Friends) | [**Goals**](/Goals) | [**References**](/References) |
