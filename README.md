@@ -1,5 +1,5 @@
 
-| [**Running**](/Running) | [**Professional**](/Professional) | [**Friends**](/Friends) | [**Goals**](/Goals) | [**References**](/References) |
+| [**Home**](/README) | [**Running**](/Running) | [**Professional**](/Professional) | [**Friends**](/Friends) | [**Goals**](/Goals) | [**References**](/References) |
 
 # Welcome
 
@@ -35,5 +35,6 @@ print("\nThe final position of the object is", FINAL_POSITION)  #Finally, we pri
 This block of code above introduced me not only to the simplicity of coding using Python, but of float integers as well. This brought up my enthusiasm of coding.
 
 ---
-| [**Running**](/Running) | [**Professional**](/Professional) | [**Friends**](/Friends) | [**Goals**](/Goals) | [**References**](/References) |
+| [**Home**](/README) | [**Running**](/Running) | [**Professional**](/Professional) | [**Friends**](/Friends) | [**Goals**](/Goals) | [**References**](/References) |
+
 
