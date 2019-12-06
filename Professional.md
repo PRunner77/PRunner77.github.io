@@ -152,8 +152,10 @@ Team assembled based in California to build the nation's first hyperloop that wo
 
 ## Activities
 
-![3D Magic](https://bit.ly/2DS5R4L)
+![3D Magic](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiag7Kj8aHmAhUOXKwKHWy1DJoQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.industryweek.com%2Ftechnology-and-iiot%2Ffather-3d-printing-miracles-dont-come-fast-or-easy&psig=AOvVaw3OA7JELnQ7L8zR0pBTs22L&ust=1575751321382116)
+
 #### [3D Printing Club](https://missouri.campuslabs.com/engage/organization/3d-printing-club)
+
 
 Ability to learn about 3D printing and to participate in different groups such as _large scale 3D printing_, _Making Mizzou_, _beginner group_, or the _prosthetics group_.
  
