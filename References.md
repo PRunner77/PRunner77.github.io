@@ -1,3 +1,6 @@
+| [**Home**](/README) | [**Running**](/Running) | [**Professional**](/Professional) | [**Friends**](/Friends) | [**Goals**](/Goals) | [**References**](/References) |
+
+
 # References
 
 I would **_LOVE_** to take all the credit and say that I did this all by myself. In truth I did have a ton of help in creating the website.
@@ -14,9 +17,6 @@ I would **_LOVE_** to take all the credit and say that I did this all by myself.
 
   * Although Bitly did want me to sign in to use their service after a certain number or shorteners.
 
-## [Emily C. Zabor](http://www.emilyzabor.com/) + [Her guide](https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html)
-
-* I wanted some help in making my webpage/website actually look like a webpage. Her guide let me use the "*R-Project*" way of creating a website, which to me looks a lot better than having links. 
 
 ## [Quotes](https://www.positivityblog.com/)
 
@@ -24,3 +24,5 @@ I would **_LOVE_** to take all the credit and say that I did this all by myself.
 
 As my old frind Aesop would say
 >### "Gratitude is the sign of noble souls.” 
+
+| [**Home**](/README) | [**Running**](/Running) | [**Professional**](/Professional) | [**Friends**](/Friends) | [**Goals**](/Goals) | [**References**](/References) |
