@@ -49,7 +49,7 @@ Even though I wasn't the best runner on the team during my four years, I still l
 
 ### High School Track
 
-After cross country season ended, I did not know what the expect for [track](https://www.athletic.net/TrackAndField/Athlete.aspx?AID=9029596) during my time in high school. I quickly came to my senses and knew that track was *my* sport to succeed in. I loved the joy and adrenaline from track better than the ones from cross country. ![Track and Friends](https://bit.ly/2OwuIBq)
+After cross country season ended, I did not know what the expect for [track](https://www.athletic.net/TrackAndField/Athlete.aspx?AID=9029596) during my time in high school. I quickly came to my senses and knew that track was *my* sport to succeed in. I loved the joy and adrenaline from track better than the ones from cross country. ![Track and Friends](/FB_IMG_1575065922713.jpg)
 
 The team atmosphere was quite a bit different regarding track than that of cross country. The team was bigger, which meant less bonding but also meant more cheering from the team. My favorite races came from track.
 
