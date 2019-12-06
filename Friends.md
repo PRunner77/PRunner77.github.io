@@ -1,4 +1,4 @@
-| [**Home**](/README) | [**Running**](/Running) | [**Professional**](/Professional) | [**Friends**](/Friends) | [**Goals**](/Goals) | [**References**](/References) |
+| [**Running**](/Running) | [**Professional**](/Professional) | [**Friends**](/Friends) | [**Goals**](/Goals) | [**References**](/References) |
 
 
 # Friendships/Networking
@@ -92,5 +92,4 @@ print('-He is very excited to start programming and learning more about computer
 ```
 
 To something as advanced as this webpage, I am growing my networking opportunites and will be ready in the comming months to show what I know.
-
-| [**Home**](/README) | [**Running**](/Running) | [**Professional**](/Professional) | [**Friends**](/Friends) | [**Goals**](/Goals) | [**References**](/References) |
+ | [**Running**](/Running) | [**Professional**](/Professional) | [**Friends**](/Friends) | [**Goals**](/Goals) | [**References**](/References) |
