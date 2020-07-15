@@ -5,7 +5,7 @@
 
 <img src="https://tinyurl.com/wgdl5yu" style="width:30%; border:5px solid; margin-right: 20px" align="left">
 
-My name is [Payton Marlin](https://spark.adobe.com/page/bx0sCvLqR5RHU/), a current first-year student at the [University of Missouri](https://missouri.edu/). Some of my most favorite activities to do include:
+My name is [Payton Marlin](https://spark.adobe.com/page/bx0sCvLqR5RHU/), a current third-year student at the [University of Missouri](https://missouri.edu/). Some of my most favorite activities to do include:
 
     - Running
     - Playing Game
@@ -14,7 +14,7 @@ My name is [Payton Marlin](https://spark.adobe.com/page/bx0sCvLqR5RHU/), a curre
     - Learning to code
     - Many more... (included in other webpages)
 
-Although I do not have ~~**_any_**~~ ~~**_none_**~~ **_nada_** programming experience, I have always wanted to learn how to code and to solve problems. I am taking the dreaded *CS 1050* class next semester, which I have heard is very difficult. However, one quote still stays in my head...
+Although I do not have ~~**_any_**~~...~~**_none_**~~... **_nada_** programming experience, I have always wanted to learn how to code and to solve problems. One quote still stays in my head...
 >##  "If you can't fly, then run, if you can't run then walk, if you can't walk then crawl, but whatever you do, you have to keep moving forward." *-Martin Luther King, Jr.*
 
 ![Uni](/columns.jpg)
