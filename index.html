@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<!-- 
+    Name: Payton Marlin
+    Pawprint: Pjmddc
+    Date: Jan. 25th, 2021
+    Challenge: Portfolio S21
+-->
+
+<html lang="en">
+    <head>
+    <!-- Apply the necessary tags and reference my CSS stylesheet -->
+        <meta charset="utf-8">
+        <title>Payton's Portfolio</title>
+        <link rel="stylesheet" type="text/css"
+              href="PjmddcPortfolioS21.css">
+        <style>
+            #navigation {
+            background-color: dodgerblue;
+            margin: auto;
+            height: 45px;
+            position: fixed;
+            left: 0;
+            right: 0;
+            top: 0;
+            z-index: 1; /* Reference: https://www.w3schools.com/cssref/pr_pos_z-index.asp this brings the header to the front*/
+        }
+
+        #handsome {
+            position: relative;
+            margin: auto; /*this took me a long time to figure out */
+            margin-top: 100px;
+            margin-bottom: 50px;
+            height: 400px;
+            max-width: 40%;
+            display: block; /*needed to center the image both vertically and horizontally */
+            border: 5px solid dodgerblue;
+            border-style: ridge;
+        }
+
+        /* Now we can declare a style without putting it into the HTMl code */
+        .pictureName {
+            position: relative;
+            margin-top: 30px;
+            margin-bottom: 10px;
+            text-align: center;
+            color: dodgerblue;
+        }
+
+        /* separate tags for the different paragraphs */
+        p {
+            font-size: 22px;
+            text-align: center;
+            color: deepskyblue
+        }
+
+        .name {
+            margin: 10px;
+            font-size: 30px; 
+            font-family: fantasy;
+            color: white;
+            text-align: left;
+            padding-left: 10px
+        }
+
+        body {
+            background-color: azure
+        }
+
+        /* This code is referenced at https://www.w3.org/Style/Examples/007/center.en.html */
+        div.center {
+            margin: 0;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%)
+        }
+        /* This ends the reference materials for the centered div tag */
+
+
+        #columns {
+            margin: 0;
+	    padding-top: 10px;
+            bottom: -40px;
+            position: absolute;
+            left: 44%;
+            padding-bottom: 275px;
+        }
+
+
+        .pictures {
+            width: 50px;
+            position: relative;
+        }
+
+        /* created a class that would have each icon 'inline' with each other and apply some space in between */
+        .icon {
+            display: inline-block;
+            padding-left: 5px;
+            opacity: 60%;
+            position: relative;
+           /* background-color: dodgerblue */ 
+        }
+
+        /* Style buttons */
+
+        #resume {
+            top: 0;
+            font-size: 25px;
+            color: black;
+            background-color: dodgerblue;
+            height: 30px;
+        }
+
+    </style>
+    </head>
+    <body>
+    <!-- Create a navigation bar, resource used: https://www.youtube.com/watch?v=rDiiIhVuODQ -->
+        <nav id="navigation">
+            <p class="name">Payton Marlin</p>
+        </nav>
+    <!-- now we will put a picture below the navigation bar -->
+        <div class="center">
+            <img id="handsome" src="images/pjmddc_Suit_Field.jpg" alt="Picture of Payton">
+            <header>
+                <h2 class="pictureName">Payton Marlin</h2>
+            </header>
+
+            <p>Aspiring Software Developer from the University of Missouri - Columbia</p>
+        </div>
+        
+        <div id="columns">
+            <div class="icon">
+                <a href="https://github.com/paytonmarlin" target="_blank">
+                <img src="images/pjmddc_GitHub-Mark.png" alt="Github Picture" class="pictures">
+                </a>
+            </div>
+    <!-- Use this link https://stackoverflow.com/questions/11620698/how-to-trigger-a-file-download-when-clicking-an-html-button-or-javascript
+    to figure out how to initiate a download -->         
+            <div class="icon">
+                <a href="images/pjmddc_Payton%20Marlin%20-%20Resume.pdf" class="button"  target="_blank">
+                    <p id="resume">Resume</p>
+                </a>
+            </div>
+            <div class="icon">
+                <a href="https://www.linkedin.com/in/paytonmarlin/" target="_blank">
+                    <img src="images/pjmddc_LinkedIn.png" alt="LinkedIn_Page" class="pictures">
+                </a>
+            </div>
+            
+        </div>
+    </body>
+
+
+</html>
